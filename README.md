@@ -1,4 +1,4 @@
-<h2>Projeto da Digital Innovation One - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
+<h2>Projeto da Digital Innovation One - Desenvolvimento de um sistema de gerenciamento de pessoas em uma API REST com o Spring Boot framework</h2>
 
 
 
